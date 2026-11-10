@@ -1,0 +1,111 @@
+project_id,milestone,due,forecast,status
+PRJ-001,M1: Business case,2024-11-24,2024-11-24,Complete
+PRJ-001,M2: Design sign-off,2025-02-15,2025-03-19,Overdue
+PRJ-001,M3: Build complete,2025-05-08,2025-05-12,Overdue
+PRJ-001,M4: Pilot go-live,2025-07-30,2025-07-30,Complete
+PRJ-001,M5: Scale-up,2025-10-20,2025-11-26,Planned
+PRJ-001,M6: Benefits review,2026-01-11,2026-01-11,Planned
+PRJ-002,M1: Business case,2025-10-18,2025-10-18,Planned
+PRJ-002,M2: Design sign-off,2026-01-27,2026-01-27,Planned
+PRJ-002,M3: Build complete,2026-05-08,2026-05-08,Planned
+PRJ-002,M4: Pilot go-live,2026-08-17,2026-08-17,Planned
+PRJ-002,M5: Scale-up,2026-11-26,2026-11-26,Planned
+PRJ-002,M6: Benefits review,2027-03-07,2027-03-07,Planned
+PRJ-003,M1: Business case,2024-10-12,2024-10-12,Complete
+PRJ-003,M2: Design sign-off,2025-01-07,2025-01-07,Complete
+PRJ-003,M3: Build complete,2025-04-03,2025-05-12,Overdue
+PRJ-003,M4: Pilot go-live,2025-06-29,2025-06-29,Complete
+PRJ-004,M1: Business case,2024-07-16,2024-07-16,Complete
+PRJ-004,M2: Design sign-off,2024-09-13,2024-10-11,Overdue
+PRJ-004,M3: Build complete,2024-11-11,2024-11-11,Complete
+PRJ-004,M4: Pilot go-live,2025-01-09,2025-01-09,Complete
+PRJ-005,M1: Business case,2024-11-17,2024-12-01,Overdue
+PRJ-005,M2: Design sign-off,2025-01-01,2025-01-01,Complete
+PRJ-005,M3: Build complete,2025-02-16,2025-02-24,Overdue
+PRJ-005,M4: Pilot go-live,2025-04-02,2025-05-08,Complete
+PRJ-005,M5: Scale-up,2025-05-17,2025-05-17,Complete
+PRJ-006,M1: Business case,2024-07-25,2024-07-25,Complete
+PRJ-006,M2: Design sign-off,2024-10-07,2024-10-07,Complete
+PRJ-006,M3: Build complete,2024-12-20,2024-12-20,Complete
+PRJ-006,M4: Pilot go-live,2025-03-04,2025-03-28,Complete
+PRJ-007,M1: Business case,2024-09-29,2024-09-29,Complete
+PRJ-007,M2: Design sign-off,2024-11-18,2024-11-28,Overdue
+PRJ-007,M3: Build complete,2025-01-08,2025-01-08,Complete
+PRJ-007,M4: Pilot go-live,2025-02-27,2025-03-05,Overdue
+PRJ-008,M1: Business case,2025-10-28,2025-10-28,Planned
+PRJ-008,M2: Design sign-off,2026-02-12,2026-02-12,Planned
+PRJ-008,M3: Build complete,2026-05-30,2026-06-12,Planned
+PRJ-008,M4: Pilot go-live,2026-09-14,2026-09-14,Planned
+PRJ-009,M1: Business case,2025-10-05,2025-10-05,Planned
+PRJ-009,M2: Design sign-off,2026-02-04,2026-03-06,Planned
+PRJ-009,M3: Build complete,2026-06-07,2026-06-07,Planned
+PRJ-009,M4: Pilot go-live,2026-10-07,2026-10-07,Planned
+PRJ-010,M1: Business case,2025-07-25,2025-07-25,Complete
+PRJ-010,M2: Design sign-off,2025-12-16,2026-01-03,Planned
+PRJ-010,M3: Build complete,2026-05-08,2026-05-08,Planned
+PRJ-010,M4: Pilot go-live,2026-09-29,2026-09-29,Planned
+PRJ-011,M1: Business case,2025-07-08,2025-07-27,Overdue
+PRJ-011,M2: Design sign-off,2025-11-25,2025-11-25,Planned
+PRJ-011,M3: Build complete,2026-04-14,2026-04-14,Planned
+PRJ-011,M4: Pilot go-live,2026-09-01,2026-09-01,Planned
+PRJ-012,M1: Business case,2025-01-12,2025-01-12,Complete
+PRJ-012,M2: Design sign-off,2025-03-14,2025-03-15,Overdue
+PRJ-012,M3: Build complete,2025-05-14,2025-05-14,Complete
+PRJ-012,M4: Pilot go-live,2025-07-14,2025-07-14,Complete
+PRJ-013,M1: Business case,2024-07-30,2024-07-30,Complete
+PRJ-013,M2: Design sign-off,2024-10-02,2024-10-02,Complete
+PRJ-013,M3: Build complete,2024-12-05,2024-12-23,Overdue
+PRJ-013,M4: Pilot go-live,2025-02-07,2025-02-07,Complete
+PRJ-014,M1: Business case,2025-01-20,2025-01-20,Complete
+PRJ-014,M2: Design sign-off,2025-04-18,2025-04-18,Complete
+PRJ-014,M3: Build complete,2025-07-15,2025-07-15,Complete
+PRJ-014,M4: Pilot go-live,2025-10-11,2025-10-11,Planned
+PRJ-014,M5: Scale-up,2026-01-07,2026-02-01,Planned
+PRJ-015,M1: Business case,2025-04-01,2025-04-01,Complete
+PRJ-015,M2: Design sign-off,2025-06-17,2025-07-07,Complete
+PRJ-015,M3: Build complete,2025-09-02,2025-09-28,Complete
+PRJ-015,M4: Pilot go-live,2025-11-18,2025-11-18,Planned
+PRJ-015,M5: Scale-up,2026-02-03,2026-02-03,Planned
+PRJ-015,M6: Benefits review,2026-04-21,2026-04-30,Planned
+PRJ-016,M1: Business case,2024-09-19,2024-09-19,Complete
+PRJ-016,M2: Design sign-off,2024-11-11,2024-11-11,Complete
+PRJ-016,M3: Build complete,2025-01-03,2025-01-03,Complete
+PRJ-016,M4: Pilot go-live,2025-02-25,2025-02-25,Complete
+PRJ-016,M5: Scale-up,2025-04-19,2025-04-19,Complete
+PRJ-016,M6: Benefits review,2025-06-11,2025-06-11,Complete
+PRJ-017,M1: Business case,2025-03-19,2025-03-19,Complete
+PRJ-017,M2: Design sign-off,2025-08-02,2025-09-14,Overdue
+PRJ-017,M3: Build complete,2025-12-17,2025-12-19,Planned
+PRJ-017,M4: Pilot go-live,2026-05-02,2026-05-02,Planned
+PRJ-018,M1: Business case,2025-10-13,2025-10-29,Planned
+PRJ-018,M2: Design sign-off,2026-02-23,2026-03-20,Planned
+PRJ-018,M3: Build complete,2026-07-07,2026-07-29,Planned
+PRJ-018,M4: Pilot go-live,2026-11-17,2026-11-17,Planned
+PRJ-019,M1: Business case,2024-09-02,2024-09-02,Complete
+PRJ-019,M2: Design sign-off,2025-01-22,2025-02-15,Complete
+PRJ-019,M3: Build complete,2025-06-13,2025-06-13,Complete
+PRJ-019,M4: Pilot go-live,2025-11-02,2025-12-06,Planned
+PRJ-020,M1: Business case,2025-03-14,2025-03-14,Complete
+PRJ-020,M2: Design sign-off,2025-06-10,2025-07-04,Complete
+PRJ-020,M3: Build complete,2025-09-05,2025-09-26,Complete
+PRJ-020,M4: Pilot go-live,2025-12-02,2025-12-02,Planned
+PRJ-020,M5: Scale-up,2026-02-27,2026-02-27,Planned
+PRJ-020,M6: Benefits review,2026-05-26,2026-07-01,Planned
+PRJ-021,M1: Business case,2025-07-24,2025-08-27,Overdue
+PRJ-021,M2: Design sign-off,2025-12-12,2025-12-12,Planned
+PRJ-021,M3: Build complete,2026-05-01,2026-05-01,Planned
+PRJ-021,M4: Pilot go-live,2026-09-19,2026-09-19,Planned
+PRJ-022,M1: Business case,2025-09-07,2025-10-07,Overdue
+PRJ-022,M2: Design sign-off,2025-12-15,2025-12-15,Planned
+PRJ-022,M3: Build complete,2026-03-23,2026-04-06,Planned
+PRJ-022,M4: Pilot go-live,2026-06-30,2026-06-30,Planned
+PRJ-022,M5: Scale-up,2026-10-06,2026-10-15,Planned
+PRJ-023,M1: Business case,2025-01-08,2025-01-08,Complete
+PRJ-023,M2: Design sign-off,2025-04-06,2025-04-06,Complete
+PRJ-023,M3: Build complete,2025-07-03,2025-07-26,Overdue
+PRJ-023,M4: Pilot go-live,2025-09-29,2025-10-08,Overdue
+PRJ-024,M1: Business case,2025-04-21,2025-04-21,Complete
+PRJ-024,M2: Design sign-off,2025-08-11,2025-09-19,Overdue
+PRJ-024,M3: Build complete,2025-12-01,2025-12-01,Planned
+PRJ-024,M4: Pilot go-live,2026-03-23,2026-03-23,Planned
+PRJ-024,M5: Scale-up,2026-07-13,2026-07-20,Planned

@@ -1,0 +1,52 @@
+risk_id,project_id,category,likelihood,impact,owner,status,mitigation
+RSK-001,PRJ-001,Budget,2,3,Quality,Mitigating,Phase scope
+RSK-002,PRJ-001,Resource,5,5,Quality,Closed,Re-baseline schedule
+RSK-003,PRJ-002,Technical,5,3,IT / Digital,Open,Contingency budget
+RSK-004,PRJ-003,Resource,5,3,HR,Open,Add vendor resources
+RSK-005,PRJ-004,Stakeholder,1,1,Quality,Open,Phase scope
+RSK-006,PRJ-004,Vendor,5,2,Finance,Closed,Stakeholder engagement plan
+RSK-007,PRJ-005,Technical,2,3,Finance,Open,Contingency budget
+RSK-008,PRJ-005,Technical,3,5,IT / Digital,Closed,Contingency budget
+RSK-009,PRJ-005,Stakeholder,2,4,Quality,Closed,Phase scope
+RSK-010,PRJ-006,Schedule,2,3,Public Health,Mitigating,Add vendor resources
+RSK-011,PRJ-007,Regulatory,4,1,IT / Digital,Open,Escalate to steering committee
+RSK-012,PRJ-007,Stakeholder,1,4,Quality,Open,Escalate to steering committee
+RSK-013,PRJ-007,Vendor,1,1,HR,Open,Phase scope
+RSK-014,PRJ-007,Regulatory,5,1,Quality,Open,Phase scope
+RSK-015,PRJ-008,Resource,1,3,HR,Closed,Phase scope
+RSK-016,PRJ-008,Budget,1,3,Quality,Open,Stakeholder engagement plan
+RSK-017,PRJ-008,Resource,3,3,Clinical Operations,Open,Re-baseline schedule
+RSK-018,PRJ-008,Regulatory,4,4,IT / Digital,Mitigating,Phase scope
+RSK-019,PRJ-009,Regulatory,3,5,Clinical Operations,Mitigating,Contingency budget
+RSK-020,PRJ-009,Regulatory,3,2,Nursing,Closed,Escalate to steering committee
+RSK-021,PRJ-009,Stakeholder,4,1,IT / Digital,Closed,Stakeholder engagement plan
+RSK-022,PRJ-009,Technical,5,5,IT / Digital,Open,Stakeholder engagement plan
+RSK-023,PRJ-010,Stakeholder,4,4,Finance,Mitigating,Phase scope
+RSK-024,PRJ-011,Stakeholder,4,1,Quality,Open,Re-baseline schedule
+RSK-025,PRJ-011,Budget,4,1,Quality,Closed,Contingency budget
+RSK-026,PRJ-011,Regulatory,5,2,Clinical Operations,Open,Add vendor resources
+RSK-027,PRJ-011,Budget,5,3,IT / Digital,Open,Contingency budget
+RSK-028,PRJ-012,Regulatory,1,4,Quality,Open,Contingency budget
+RSK-029,PRJ-012,Budget,2,3,Nursing,Closed,Contingency budget
+RSK-030,PRJ-013,Vendor,2,4,Quality,Open,Contingency budget
+RSK-031,PRJ-013,Schedule,5,5,HR,Open,Stakeholder engagement plan
+RSK-032,PRJ-014,Technical,4,5,Clinical Operations,Open,Stakeholder engagement plan
+RSK-033,PRJ-014,Stakeholder,4,2,HR,Closed,Stakeholder engagement plan
+RSK-034,PRJ-014,Schedule,2,2,Public Health,Open,Escalate to steering committee
+RSK-035,PRJ-015,Technical,3,5,Quality,Open,Contingency budget
+RSK-036,PRJ-016,Regulatory,2,1,Finance,Mitigating,Re-baseline schedule
+RSK-037,PRJ-016,Stakeholder,1,3,IT / Digital,Open,Re-baseline schedule
+RSK-038,PRJ-017,Schedule,5,3,Nursing,Open,Re-baseline schedule
+RSK-039,PRJ-018,Regulatory,4,4,Nursing,Open,Stakeholder engagement plan
+RSK-040,PRJ-018,Vendor,2,3,Quality,Open,Add vendor resources
+RSK-041,PRJ-018,Resource,4,3,HR,Open,Re-baseline schedule
+RSK-042,PRJ-019,Regulatory,1,3,Nursing,Open,Escalate to steering committee
+RSK-043,PRJ-019,Resource,2,1,IT / Digital,Mitigating,Contingency budget
+RSK-044,PRJ-019,Budget,1,4,Clinical Operations,Closed,Stakeholder engagement plan
+RSK-045,PRJ-020,Regulatory,5,3,HR,Mitigating,Re-baseline schedule
+RSK-046,PRJ-021,Schedule,4,3,Clinical Operations,Open,Escalate to steering committee
+RSK-047,PRJ-022,Resource,1,1,IT / Digital,Mitigating,Contingency budget
+RSK-048,PRJ-023,Vendor,4,2,Finance,Open,Add vendor resources
+RSK-049,PRJ-023,Technical,2,4,Public Health,Open,Escalate to steering committee
+RSK-050,PRJ-024,Vendor,3,3,Clinical Operations,Closed,Phase scope
+RSK-051,PRJ-024,Stakeholder,3,3,Finance,Closed,Re-baseline schedule
